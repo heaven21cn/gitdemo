@@ -12,6 +12,7 @@ push 上去v0.8
 push 上去v0.9
 push 上去v1.0
 push 上去v1.1
+push 上去v1.2
  */
 @SpringBootApplication
 public class DemoApplication {
