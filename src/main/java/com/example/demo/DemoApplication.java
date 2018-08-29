@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 肯定是
 测一下试看看
 可以的testgag
+push 上去v0.7
 
  */
 @SpringBootApplication
